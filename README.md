@@ -17,3 +17,5 @@ https://opendata.ecdc.europa.eu/covid19/casedistribution/xml/
 XSD validation :
 https://github.com/julenMarrero/COV-19/blob/master/public_html/covid-chart.xsd
 
+XSD Link:
+https://github.com/julenMarrero/COV-19/blob/master/public_html/covid_dataTable.xsl
