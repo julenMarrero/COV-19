@@ -19,3 +19,6 @@ https://github.com/julenMarrero/COV-19/blob/master/public_html/covid-chart.xsd
 
 XSL Link:
 https://github.com/julenMarrero/COV-19/blob/master/public_html/covid_dataTable.xsl
+
+Hosting Firebase:
+https://console.firebase.google.com/u/2/project/covid-af05c/overview?pli=1
